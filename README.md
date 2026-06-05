@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @proxyserver123
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning Frontend development
+- 👀 I’m doing a backend project on building an e commerce platform
 
 
 <!---
