@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @proxyserver123
-- 👀 I’m doing a backend project on building an e commerce platform
+- 👀 I’m doing a backend project on building an e-commerce platform
 
 
 <!---
